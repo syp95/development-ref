@@ -15,6 +15,9 @@
 
 - [네트워크 간단 정리](https://coding-dong-dang.tistory.com/25?category=985709)
 - [쉽게 이해하는 네트워크 1 ~](https://better-together.tistory.com/39?category=887984)
+- [https / ssl](https://wayhome25.github.io/cs/2018/03/11/ssl-https/)
+- [생활코딩 DNS](https://opentutorials.org/course/3276)
+- [생활코딩 HTTP](https://opentutorials.org/course/3385)
 
 ### 객체지향
 - [객체지향 5원칙 시리즈 정리](https://blog.itcode.dev/posts/2021/08/13/single-responsibility-principle)
