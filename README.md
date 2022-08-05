@@ -16,6 +16,7 @@
 - [네트워크 간단 정리](https://coding-dong-dang.tistory.com/25?category=985709)
 - [쉽게 이해하는 네트워크 1 ~](https://better-together.tistory.com/39?category=887984)
 - [https / ssl](https://wayhome25.github.io/cs/2018/03/11/ssl-https/)
+- [CORS 개념 , 해결방법](https://inpa.tistory.com/entry/WEB-%F0%9F%93%9A-CORS-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95-%F0%9F%91%8F)
 - [생활코딩 DNS](https://opentutorials.org/course/3276)
 - [생활코딩 HTTP](https://opentutorials.org/course/3385)
 
