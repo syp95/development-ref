@@ -21,9 +21,17 @@
 - [생활코딩 HTTP](https://opentutorials.org/course/3385)
 
 ### 객체지향
+
 - [객체지향 5원칙 시리즈 정리](https://blog.itcode.dev/posts/2021/08/13/single-responsibility-principle)
 - [객체지향 5원칙 (SOLID)는 구시대의 유물인가](https://mangsby.com/blog/programming/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-5%EC%9B%90%EC%B9%99-solid%EC%9D%80-%EA%B5%AC%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%9C%A0%EB%AC%BC%EC%9D%B8%EA%B0%80/)
 
+### CS
+
+- [명령형/선언형 프로그래밍](https://iborymagic.tistory.com/73)
+
+### 리액트
+
+- [React는 컴포넌트를 언제 리렌더링 할까요](https://velog.io/@surim014/react-rerender)
 
 ### 본 강의들 코드 샘플
 
