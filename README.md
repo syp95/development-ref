@@ -19,6 +19,7 @@
 - [CORS 개념 , 해결방법](https://inpa.tistory.com/entry/WEB-%F0%9F%93%9A-CORS-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95-%F0%9F%91%8F)
 - [생활코딩 DNS](https://opentutorials.org/course/3276)
 - [생활코딩 HTTP](https://opentutorials.org/course/3385)
+- [HTTP/1.1 , HTTP/2](https://youtu.be/xcrjamphIp4)
 
 ### 객체지향
 
@@ -32,6 +33,10 @@
 ### 리액트
 
 - [React는 컴포넌트를 언제 리렌더링 할까요](https://velog.io/@surim014/react-rerender)
+
+### AWS
+
+- [API Gateway, Lambda 기본(생활코딩)](https://www.youtube.com/watch?v=tHwatH9GgnM)
 
 ### 본 강의들 코드 샘플
 
