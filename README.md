@@ -38,6 +38,10 @@
 
 - [API Gateway, Lambda 기본(생활코딩)](https://www.youtube.com/watch?v=tHwatH9GgnM)
 
+### 협업
+
+- [커밋 메시지 규약](https://velog.io/@outstandingboy/Git-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80-%EA%B7%9C%EC%95%BD-%EC%A0%95%EB%A6%AC-the-AngularJS-commit-conventions)
+
 ### 본 강의들 코드 샘플
 
 - [김버그의 HTML/CSS](https://github.com/rohjs/bugless-101)
