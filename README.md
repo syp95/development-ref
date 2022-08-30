@@ -29,6 +29,7 @@
 ### CS
 
 - [명령형/선언형 프로그래밍](https://iborymagic.tistory.com/73)
+- [자료구조와 알고리즘의 필요성](https://prgms.tistory.com/134)
 
 ### 리액트
 
