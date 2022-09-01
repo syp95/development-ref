@@ -49,7 +49,7 @@
 
 ### 테스팅
 
--[프론트엔드 테스팅 시리즈](https://jbee.io/react/testing-1-react-testing/)
+- [프론트엔드 테스팅 시리즈](https://jbee.io/react/testing-1-react-testing/)
 
 ### 본 강의들 코드 샘플
 
