@@ -47,6 +47,10 @@
 - [git 이슈 작성 및 커밋 연결](https://velog.io/@junh0328/%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%9D%B4%EC%8A%88-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 - [git PR, Merge, 이슈와 PR 연결](https://m.blog.naver.com/demonic3540/221813167477)
 
+### 테스팅
+
+-[프론트엔드 테스팅 시리즈](https://jbee.io/react/testing-1-react-testing/)
+
 ### 본 강의들 코드 샘플
 
 - [김버그의 HTML/CSS](https://github.com/rohjs/bugless-101)
