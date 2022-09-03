@@ -53,6 +53,10 @@
 
 - [프론트엔드 테스팅 시리즈](https://jbee.io/react/testing-1-react-testing/)
 
+### 프레임 워크
+- Next JS
+  - [Next JS hydration 스타일 이슈](https://fourwingsy.medium.com/next-js-hydration-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%9D%B4%EC%8A%88-%ED%94%BC%ED%95%B4%EA%B0%80%EA%B8%B0-988ce0d939e7)
+
 ### 본 강의들 코드 샘플
 
 - [김버그의 HTML/CSS](https://github.com/rohjs/bugless-101)
