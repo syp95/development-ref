@@ -48,6 +48,7 @@
 - [git Project/issue 기본](https://devlog-wjdrbs96.tistory.com/227)
 - [git 이슈 작성 및 커밋 연결](https://velog.io/@junh0328/%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%9D%B4%EC%8A%88-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 - [git PR, Merge, 이슈와 PR 연결](https://m.blog.naver.com/demonic3540/221813167477)
+- [git 분산버전 관리 시스템](https://mylko72.gitbooks.io/git/content/branch/branch_type.html)
 
 ### 테스팅
 
@@ -56,6 +57,9 @@
 ### 프레임 워크
 - Next JS
   - [Next JS hydration 스타일 이슈](https://fourwingsy.medium.com/next-js-hydration-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%9D%B4%EC%8A%88-%ED%94%BC%ED%95%B4%EA%B0%80%EA%B8%B0-988ce0d939e7)
+  - [NextJS React-query](https://gingerkang.tistory.com/123)
+- React
+  - [React 무한스크롤](https://velog.io/@euneun/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-k162xd7y)
 
 ### 본 강의들 코드 샘플
 
