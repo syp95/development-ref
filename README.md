@@ -33,9 +33,6 @@
 - [명령형/선언형 프로그래밍](https://iborymagic.tistory.com/73)
 - [자료구조와 알고리즘의 필요성](https://prgms.tistory.com/134)
 
-### 리액트
-
-- [React는 컴포넌트를 언제 리렌더링 할까요](https://velog.io/@surim014/react-rerender)
 
 ### AWS
 
@@ -60,6 +57,7 @@
   - [NextJS React-query](https://gingerkang.tistory.com/123)
 - React
   - [React 무한스크롤](https://velog.io/@euneun/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-k162xd7y)
+  - [React는 컴포넌트를 언제 리렌더링 할까요](https://velog.io/@surim014/react-rerender)
 
 ### 본 강의들 코드 샘플
 
