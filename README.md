@@ -47,6 +47,7 @@
 - [git 이슈 작성 및 커밋 연결](https://velog.io/@junh0328/%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%9D%B4%EC%8A%88-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 - [git PR, Merge, 이슈와 PR 연결](https://m.blog.naver.com/demonic3540/221813167477)
 - [git 분산버전 관리 시스템](https://mylko72.gitbooks.io/git/content/branch/branch_type.html)
+- [개발자 협업 역량의 핵심 '업무 가시성'](https://taeho.io/pages/5d36a0ef-1e17-4957-b075-b5df5ffd9436)
 
 ### 테스팅
 
