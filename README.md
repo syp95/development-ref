@@ -54,6 +54,7 @@
 - [git 분산버전 관리 시스템](https://mylko72.gitbooks.io/git/content/branch/branch_type.html)
 - [개발자 협업 역량의 핵심 '업무 가시성'](https://taeho.io/pages/5d36a0ef-1e17-4957-b075-b5df5ffd9436)
 - [목데이터](https://velog.io/@wong0220/%EC%83%81%EC%88%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0)
+- [MSW로 백엔드 API 모킹하기](https://www.daleseo.com/mock-service-worker/)
 
 ### 테스팅
 
