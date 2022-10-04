@@ -22,6 +22,7 @@
 ### JWT
 
 - [JWT 조금 더 안전하게 저장하기 , 프론트, 백](https://prolog.techcourse.co.kr/studylogs/2272)
+- [JWT 로그인 구현](https://breathtaking-life.tistory.com/156)
 
 ### 네트워크
 
