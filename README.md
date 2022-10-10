@@ -24,6 +24,10 @@
 - [JWT 조금 더 안전하게 저장하기 , 프론트, 백](https://prolog.techcourse.co.kr/studylogs/2272)
 - [JWT 로그인 구현](https://breathtaking-life.tistory.com/156)
 
+### Redis
+
+-[레디스 정리](https://codediary21.tistory.com/103)
+
 ### 네트워크
 
 - [네트워크 간단 정리](https://coding-dong-dang.tistory.com/25?category=985709)
