@@ -27,6 +27,7 @@
 ### Redis
 
 -[레디스 정리](https://codediary21.tistory.com/103)
+-[레디스 window 설치](https://gerger.tistory.com/143)
 
 ### 네트워크
 
