@@ -23,6 +23,8 @@
 
 - [JWT 조금 더 안전하게 저장하기 , 프론트, 백](https://prolog.techcourse.co.kr/studylogs/2272)
 - [JWT 로그인 구현](https://breathtaking-life.tistory.com/156)
+- [JWT 어디에 저장해야할까](https://velog.io/@0307kwon/JWT%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-localStorage-vs-cookie)
+- [JWT 토큰을 어디에 저장해야하는가](https://velog.io/@mokyoungg/JWT-%ED%86%A0%ED%81%B0%EC%9D%84-%EC%96%B4%EB%94%94%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80)
 
 ### Redis
 
