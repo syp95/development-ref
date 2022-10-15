@@ -90,6 +90,7 @@
   - [useMutation 기본편](https://velog.io/@kimhyo_0218/React-Query-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BF%BC%EB%A6%AC-useMutation-%EA%B8%B0%EB%B3%B8-%ED%8E%B8)
   - [useMutation 실전편](https://velog.io/@kimhyo_0218/React-Query-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BF%BC%EB%A6%AC-useMutation-%EC%8B%A4%EC%9A%A9-%ED%8E%B8custom-hook-%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
   - [useMutation 정리](https://itchallenger.tistory.com/587)
+  - [useQuery, useMutation 트렌비 기술블로그](https://tech.trenbe.com/2022/08/08/%EC%B0%9C%EC%9C%BC%EB%A1%9C%EC%B0%9C%ED%95%B4%EB%B3%B4%EB%8A%94react-query.html)
 - Express
   - [multer 미들웨어](https://inpa.tistory.com/entry/EXPRESS-%F0%9F%93%9A-multer-%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4)
   - [express 서버에 파일 업로드 multer](https://velog.io/@goatyeonje/%EC%84%9C%EB%B2%84%EC%97%90-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C-api-%EC%9D%91%EB%8B%B5%EC%9C%BC%EB%A1%9C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%97%90-%ED%8C%8C%EC%9D%BC-%EC%A0%9C%EA%B3%B5)
