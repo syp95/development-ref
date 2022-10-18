@@ -76,7 +76,7 @@
 
 - [시멘틱 마크업](https://velog.io/@seongkyun/Semantic-Tag%EB%8A%94-SEO%EC%97%90-%EC%98%81%ED%96%A5%EC%9D%84-%EB%AF%B8%EC%B9%A0%EA%B9%8C)
 
-### 프레임 워크
+### 프레임 워크 / 라이브러리
 - Next JS
   - [Next JS hydration 스타일 이슈](https://fourwingsy.medium.com/next-js-hydration-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%9D%B4%EC%8A%88-%ED%94%BC%ED%95%B4%EA%B0%80%EA%B8%B0-988ce0d939e7)
   - [NextJS React-query](https://gingerkang.tistory.com/123)
@@ -91,6 +91,9 @@
   - [useMutation 실전편](https://velog.io/@kimhyo_0218/React-Query-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BF%BC%EB%A6%AC-useMutation-%EC%8B%A4%EC%9A%A9-%ED%8E%B8custom-hook-%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
   - [useMutation 정리](https://itchallenger.tistory.com/587)
   - [useQuery, useMutation 트렌비 기술블로그](https://tech.trenbe.com/2022/08/08/%EC%B0%9C%EC%9C%BC%EB%A1%9C%EC%B0%9C%ED%95%B4%EB%B3%B4%EB%8A%94react-query.html)
+- Styled-Components
+  - [styled component 분리](https://velog.io/@realzu/React-%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%84%B1-%EB%86%92%EC%9D%B4%EB%8A%94-styled-components-%EB%B6%84%EB%A6%AC)
+  - [styled component 분리2](https://velog.io/@plu457/React-Styled-Component-%ED%8C%8C%EC%9D%BC-%EB%B6%84%EB%A6%AC)
 - Express
   - [multer 미들웨어](https://inpa.tistory.com/entry/EXPRESS-%F0%9F%93%9A-multer-%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4)
   - [express 서버에 파일 업로드 multer](https://velog.io/@goatyeonje/%EC%84%9C%EB%B2%84%EC%97%90-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C-api-%EC%9D%91%EB%8B%B5%EC%9C%BC%EB%A1%9C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%97%90-%ED%8C%8C%EC%9D%BC-%EC%A0%9C%EA%B3%B5)
