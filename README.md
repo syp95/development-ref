@@ -84,6 +84,9 @@
 - React
   - [React 무한스크롤](https://velog.io/@euneun/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-k162xd7y)
   - [React는 컴포넌트를 언제 리렌더링 할까요](https://velog.io/@surim014/react-rerender)
+  - [Custom hook](https://kyounghwan01.github.io/blog/React/custome-hook/#%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%AA%E1%86%BC)
+  - [useMemo](https://www.daleseo.com/react-hooks-use-memo/)
+  - [useCallback](https://www.daleseo.com/react-hooks-use-callback/)
 - React-Query
   - [React-Query 도입을 위한 고민 with recoil](https://tech.osci.kr/2022/07/13/react-query/)
   - [React-Query 개념 및 정리](https://kyounghwan01.github.io/blog/React/react-query/basic/#%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%B2)
