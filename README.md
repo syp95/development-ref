@@ -71,6 +71,8 @@
 
 - [클린 아키텍쳐](https://www.youtube.com/watch?v=TBAjugjr0LM)
 - [git convention commit 강제 방법](https://www.youtube.com/watch?v=l4bRepOMXs4&t=577s)
+- [husky, commitlint](https://blog.flynnpark.dev/13)
+- [cz-customizable](https://velog.io/@restarea/cz-customizable)
 
 ### 테스팅
 
