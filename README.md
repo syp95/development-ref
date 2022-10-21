@@ -41,6 +41,7 @@
 - [생활코딩 HTTP](https://opentutorials.org/course/3385)
 - [HTTP/1.1 , HTTP/2](https://youtu.be/xcrjamphIp4)
 
+
 ### 객체지향
 
 - [객체지향 5원칙 시리즈 정리](https://blog.itcode.dev/posts/2021/08/13/single-responsibility-principle)
@@ -67,6 +68,9 @@
 - [개발자 협업 역량의 핵심 '업무 가시성'](https://taeho.io/pages/5d36a0ef-1e17-4957-b075-b5df5ffd9436)
 - [목데이터](https://velog.io/@wong0220/%EC%83%81%EC%88%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0)
 - [MSW로 백엔드 API 모킹하기](https://www.daleseo.com/mock-service-worker/)
+
+- [클린 아키텍쳐](https://www.youtube.com/watch?v=TBAjugjr0LM)
+- [git convention commit 강제 방법](https://www.youtube.com/watch?v=l4bRepOMXs4&t=577s)
 
 ### 테스팅
 
