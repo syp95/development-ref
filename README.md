@@ -68,12 +68,13 @@
 - [개발자 협업 역량의 핵심 '업무 가시성'](https://taeho.io/pages/5d36a0ef-1e17-4957-b075-b5df5ffd9436)
 - [목데이터](https://velog.io/@wong0220/%EC%83%81%EC%88%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0)
 - [MSW로 백엔드 API 모킹하기](https://www.daleseo.com/mock-service-worker/)
-
 - [클린 아키텍쳐](https://www.youtube.com/watch?v=TBAjugjr0LM)
 - [git convention commit 강제 방법](https://www.youtube.com/watch?v=l4bRepOMXs4&t=577s)
 - [husky, commitlint](https://blog.flynnpark.dev/13)
 - [cz-customizable](https://velog.io/@restarea/cz-customizable)
 - [husky + commitlint + cz-customizable](https://github.com/manudeli/husky-commitlint-commitizen)
+- [eslint, prettier 정확하게 알고 설정하자](https://helloinyong.tistory.com/325) 
+- [eslint, prettier airbnb](https://velog.io/@_jouz_ryul/ESLint-Prettier-Airbnb-Style-Guide%EB%A1%9C-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 
 ### 테스팅
 
