@@ -51,6 +51,16 @@
 - [객체지향 5원칙 시리즈 정리](https://blog.itcode.dev/posts/2021/08/13/single-responsibility-principle)
 - [객체지향 5원칙 (SOLID)는 구시대의 유물인가](https://mangsby.com/blog/programming/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-5%EC%9B%90%EC%B9%99-solid%EC%9D%80-%EA%B5%AC%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%9C%A0%EB%AC%BC%EC%9D%B8%EA%B0%80/)
 
+
+### 클린코드
+
+- [if 만 줄여도 클린코드](https://youtu.be/toUlXhTZZ8w)
+
+### 비동기
+
+- [Promise all](https://youtu.be/w76CDYZjS9Q)
+- [반복문 비동기 호출](https://youtu.be/JawB9nKkCvo)
+
 ### CS
 
 - [명령형/선언형 프로그래밍](https://iborymagic.tistory.com/73)
