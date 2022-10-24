@@ -59,7 +59,7 @@
 ### 비동기
 
 - [Promise all](https://youtu.be/w76CDYZjS9Q)
-- [반복문 비동기 호출](https://youtu.be/JawB9nKkCvo)
+- [반복문 비동기 호출 직렬(for of), 병렬(for each)](https://youtu.be/JawB9nKkCvo)
 
 ### CS
 
