@@ -127,6 +127,7 @@
   - [multer 웹에 이미지 업로드](https://moonheekim-code.tistory.com/m/129)
   - [React 에서 multer와 연결되는 방식](https://krpeppermint100.medium.com/js-react%EC%97%90%EC%84%9C-express%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%BC-%EC%98%AC%EB%A6%AC%EA%B8%B0-multer-f398adf6dbdd)
   - [Node JS 스케줄러](https://velog.io/@ssumniee/node-cron%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-node.js-%EC%84%9C%EB%B2%84%EC%97%90-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+  - [node-schedule](https://undefinedp.github.io/Node/node_schedule/)
 - Sequelize
   - [Sequelize ORM 다루기](https://loy124.tistory.com/373)
   
