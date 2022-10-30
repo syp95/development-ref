@@ -95,6 +95,10 @@
 
 - [프론트엔드 테스팅 시리즈](https://jbee.io/react/testing-1-react-testing/)
 
+### 면접
+
+- [자바스크립트 면접 단골 질문](https://youtu.be/zrzZXhDiiLs)
+
 ### HTML
 
 - [시멘틱 마크업](https://velog.io/@seongkyun/Semantic-Tag%EB%8A%94-SEO%EC%97%90-%EC%98%81%ED%96%A5%EC%9D%84-%EB%AF%B8%EC%B9%A0%EA%B9%8C)
