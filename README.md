@@ -95,6 +95,12 @@
 
 - [프론트엔드 테스팅 시리즈](https://jbee.io/react/testing-1-react-testing/)
 
+### BFF
+
+- [BFF란?](https://velog.io/@seeh_h/BFF%EB%9E%80)
+- [BFF란? 2](https://metleeha.tistory.com/entry/BFFBackend-for-Frontend-%EB%9E%80)
+- [BFF / API Gateway](https://programming119.tistory.com/248)
+
 ### 면접
 
 - [자바스크립트 면접 단골 질문](https://youtu.be/zrzZXhDiiLs)
