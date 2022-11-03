@@ -117,6 +117,7 @@
   - [Next-pwa](https://lemontia.tistory.com/1073)
   - [Next JS FCM 적용](https://velog.io/@rnrn99/Next.js%EC%97%90%EC%84%9C%EC%9D%98-Firebase-Clound-Messaging-%EC%82%BD%EC%A7%88-%EA%B8%B0%EB%A1%9D)
 - React
+  - [React의 배경과 동작](https://velog.io/@juno7803/React%EA%B0%80-%ED%83%9C%EC%96%B4%EB%82%9C-%EB%B0%B0%EA%B2%BD)
   - [React 무한스크롤](https://velog.io/@euneun/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-k162xd7y)
   - [React는 컴포넌트를 언제 리렌더링 할까요](https://velog.io/@surim014/react-rerender)
   - [Custom hook](https://kyounghwan01.github.io/blog/React/custome-hook/#%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%AA%E1%86%BC)
