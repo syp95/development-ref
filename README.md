@@ -95,6 +95,10 @@
 
 - [프론트엔드 테스팅 시리즈](https://jbee.io/react/testing-1-react-testing/)
 
+### 번들링
+
+- [WebPack 생활코딩](https://opentutorials.org/module/4566)
+
 ### BFF
 
 - [BFF란?](https://velog.io/@seeh_h/BFF%EB%9E%80)
