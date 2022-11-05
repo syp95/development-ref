@@ -56,6 +56,7 @@
 ### 클린코드
 
 - [if 만 줄여도 클린코드](https://youtu.be/toUlXhTZZ8w)
+- [클린코드](https://yummy0102.tistory.com/257)
 
 ### 비동기
 
