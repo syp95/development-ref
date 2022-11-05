@@ -109,6 +109,7 @@
 ### 면접
 
 - [자바스크립트 면접 단골 질문](https://youtu.be/zrzZXhDiiLs)
+- [좋은 면접자가 되는 방법](https://repo.yona.io/doortts/blog/post/292)
 
 ### HTML
 
