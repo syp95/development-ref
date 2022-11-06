@@ -57,6 +57,7 @@
 
 - [if 만 줄여도 클린코드](https://youtu.be/toUlXhTZZ8w)
 - [클린코드](https://yummy0102.tistory.com/257)
+- [for, if > 선언형으로](https://www.youtube.com/watch?v=Izg6mVJ1LAA&t=59s)
 
 ### 비동기
 
