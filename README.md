@@ -150,6 +150,12 @@
 - Sequelize
   - [Sequelize ORM 다루기](https://loy124.tistory.com/373)
   
+### OAuth 소셜로그인
+
+  - [OAuth 카카오 로그인 nodejs passport](https://inpa.tistory.com/entry/NODE-%F0%9F%93%9A-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%A1%9C%EA%B7%B8%EC%9D%B8-Passport-%EA%B5%AC%ED%98%84?category=907417)
+  - [OAuth 카카오 Nextjs 구현](https://hun-dev.tistory.com/32)
+  - [OAuth 카카오 React](https://data-jj.tistory.com/53)
+  
   
 ### 본 강의들 코드 샘플
 
