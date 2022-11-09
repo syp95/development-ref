@@ -93,6 +93,12 @@
 - [eslint, prettier 정확하게 알고 설정하자](https://helloinyong.tistory.com/325) 
 - [eslint, prettier airbnb](https://velog.io/@_jouz_ryul/ESLint-Prettier-Airbnb-Style-Guide%EB%A1%9C-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 
+### 모노레포
+
+- [모노레포 workspace 배민](https://techblog.woowahan.com/7976/)
+- [yarn lerna](https://velog.io/@nanjangpan/Lerna-with-Yarn-Workspaces-Monorepo)
+- [lerna로 다중 프로젝트 관리](https://taeshindev.netlify.app/monorepo-with-lerna)
+
 ### 테스팅
 
 - [프론트엔드 테스팅 시리즈](https://jbee.io/react/testing-1-react-testing/)
