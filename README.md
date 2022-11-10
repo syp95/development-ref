@@ -58,6 +58,8 @@
 - [if 만 줄여도 클린코드](https://youtu.be/toUlXhTZZ8w)
 - [클린코드](https://yummy0102.tistory.com/257)
 - [for, if > 선언형으로](https://www.youtube.com/watch?v=Izg6mVJ1LAA&t=59s)
+- [클린코드 토스 슬래쉬 정리](https://hsp0418.tistory.com/173)
+- [리액트 클린코드](https://velog.io/@bomida/React-Clean-Code-%EA%B9%94%EB%81%94%ED%95%98%EA%B3%A0-%EB%8D%94-%EB%82%98%EC%9D%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%93%B0%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
 ### 비동기
 
