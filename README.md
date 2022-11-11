@@ -145,6 +145,8 @@
   - [useMutation 실전편](https://velog.io/@kimhyo_0218/React-Query-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BF%BC%EB%A6%AC-useMutation-%EC%8B%A4%EC%9A%A9-%ED%8E%B8custom-hook-%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
   - [useMutation 정리](https://itchallenger.tistory.com/587)
   - [useQuery, useMutation 트렌비 기술블로그](https://tech.trenbe.com/2022/08/08/%EC%B0%9C%EC%9C%BC%EB%A1%9C%EC%B0%9C%ED%95%B4%EB%B3%B4%EB%8A%94react-query.html)
+  - [useInfiniteQuery + NextJs](https://gingerkang.tistory.com/123)
+    - [IntersectionObserver 설명](https://velog.io/@elrion018/%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-%EB%8A%90%EB%82%80-%EC%A0%90%EC%9D%84-%EA%B3%81%EB%93%A4%EC%9D%B8-Intersection-Observer-API-%EC%A0%95%EB%A6%AC)
 - Styled-Components
   - [styled component 분리](https://velog.io/@realzu/React-%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%84%B1-%EB%86%92%EC%9D%B4%EB%8A%94-styled-components-%EB%B6%84%EB%A6%AC)
   - [styled component 분리2](https://velog.io/@plu457/React-Styled-Component-%ED%8C%8C%EC%9D%BC-%EB%B6%84%EB%A6%AC)
