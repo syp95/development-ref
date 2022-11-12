@@ -137,6 +137,7 @@
   - [React는 컴포넌트를 언제 리렌더링 할까요](https://velog.io/@surim014/react-rerender)
   - [Custom hook](https://kyounghwan01.github.io/blog/React/custome-hook/#%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%AA%E1%86%BC)
   - [useMemo](https://www.daleseo.com/react-hooks-use-memo/)
+  - [useMemo, ReactQuery](https://medium.com/@trisianto/react-query-how-to-memoize-results-from-usequeries-hook-eaed9a0ec700)
   - [useCallback](https://www.daleseo.com/react-hooks-use-callback/)
   - [useMemo, useCallback 정확하게 사용하고 있을까](https://yceffort.kr/2022/04/best-practice-useCallback-useMemo)
 - React-Query
