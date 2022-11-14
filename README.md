@@ -9,6 +9,7 @@
 - [가치창출 ≠ 돈벌기](https://medium.com/@kurtlee/%EA%B0%80%EC%B9%98%EC%B0%BD%EC%B6%9C-%EB%8F%88%EB%B2%8C%EA%B8%B0-%EC%8A%A4%ED%8B%B0%EB%B8%8C%EC%9E%A1%EC%8A%A4-%EB%B8%94%EB%9D%BD%EC%B2%B4%EC%9D%B8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%AF%B8%EB%9E%98-8e1c230fe784)
 - [스타트업은 유치원이 아닙니다](https://medium.com/@kurtlee/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%9C%A0%EC%B9%98%EC%9B%90%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-7fad4b48e87f)
 - [나는 어떻게 공부했는가?](https://euncho.medium.com/%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%96%88%EB%8A%94%EA%B0%80-709df6714c42)
+- [How Airbnb designs for trust](https://www.youtube.com/watch?v=16cM-RFid9U)
 
 ### 브라우저
 
