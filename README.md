@@ -129,6 +129,10 @@
 
 - [시멘틱 마크업](https://velog.io/@seongkyun/Semantic-Tag%EB%8A%94-SEO%EC%97%90-%EC%98%81%ED%96%A5%EC%9D%84-%EB%AF%B8%EC%B9%A0%EA%B9%8C)
 
+### JavaScript
+
+- [js 불변성 freeze, seal](https://developer-talk.tistory.com/275)
+
 ### 프레임 워크 / 라이브러리
 - Next JS
   - [Next JS hydration 스타일 이슈](https://fourwingsy.medium.com/next-js-hydration-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%9D%B4%EC%8A%88-%ED%94%BC%ED%95%B4%EA%B0%80%EA%B8%B0-988ce0d939e7)
