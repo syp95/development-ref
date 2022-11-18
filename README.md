@@ -150,6 +150,7 @@
   - [useMemo, ReactQuery](https://medium.com/@trisianto/react-query-how-to-memoize-results-from-usequeries-hook-eaed9a0ec700)
   - [useCallback](https://www.daleseo.com/react-hooks-use-callback/)
   - [useMemo, useCallback 정확하게 사용하고 있을까](https://yceffort.kr/2022/04/best-practice-useCallback-useMemo)
+  - [Memoization 동작 방식](https://ssangq.netlify.app/posts/memoization-and-react)
   - [제어, 비제어 컴포넌트](https://velog.io/@yukyung/React-%EC%A0%9C%EC%96%B4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-%EB%B9%84%EC%A0%9C%EC%96%B4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
   
 - React-Query
