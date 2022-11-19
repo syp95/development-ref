@@ -162,7 +162,10 @@
   - [useQuery, useMutation 트렌비 기술블로그](https://tech.trenbe.com/2022/08/08/%EC%B0%9C%EC%9C%BC%EB%A1%9C%EC%B0%9C%ED%95%B4%EB%B3%B4%EB%8A%94react-query.html)
   - [useInfiniteQuery + NextJs](https://gingerkang.tistory.com/123)
     - [IntersectionObserver 설명](https://velog.io/@elrion018/%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-%EB%8A%90%EB%82%80-%EC%A0%90%EC%9D%84-%EA%B3%81%EB%93%A4%EC%9D%B8-Intersection-Observer-API-%EC%A0%95%EB%A6%AC)
-    
+
+- Recoil
+  - [Recoil, Redux, ContextAPI](https://kelly-kh-woo.medium.com/%EB%B2%88%EC%97%AD-recoil-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-95b5bea91b0)
+
 - Styled-Components
   - [styled component 분리](https://velog.io/@realzu/React-%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%84%B1-%EB%86%92%EC%9D%B4%EB%8A%94-styled-components-%EB%B6%84%EB%A6%AC)
   - [styled component 분리2](https://velog.io/@plu457/React-Styled-Component-%ED%8C%8C%EC%9D%BC-%EB%B6%84%EB%A6%AC)
