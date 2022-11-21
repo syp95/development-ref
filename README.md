@@ -103,6 +103,7 @@
 - [모노레포 workspace 배민](https://techblog.woowahan.com/7976/)
 - [yarn lerna](https://velog.io/@nanjangpan/Lerna-with-Yarn-Workspaces-Monorepo)
 - [lerna로 다중 프로젝트 관리](https://taeshindev.netlify.app/monorepo-with-lerna)
+- [팀워크를 위한 모노레포 시스템 구축, 회고](https://helloinyong.tistory.com/334)
 
 ### 테스팅
 
