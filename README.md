@@ -50,6 +50,13 @@
 - [google.com 을 입력하면](https://velog.io/@eassy/www.google.com%EC%9D%84-%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%EC%84%9C-%EC%9E%85%EB%A0%A5%ED%95%98%EB%A9%B4-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC)
 
 
+### 웹캐시
+
+- [토스/ 웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache)
+- [웹 캐시 설명자료](https://blog.naver.com/minhyupp/222729422577)
+
+
+
 ### 객체지향
 
 - [객체지향 5원칙 시리즈 정리](https://blog.itcode.dev/posts/2021/08/13/single-responsibility-principle)
@@ -153,6 +160,8 @@
   - [useMemo, useCallback 정확하게 사용하고 있을까](https://yceffort.kr/2022/04/best-practice-useCallback-useMemo)
   - [Memoization 동작 방식](https://ssangq.netlify.app/posts/memoization-and-react)
   - [제어, 비제어 컴포넌트](https://velog.io/@yukyung/React-%EC%A0%9C%EC%96%B4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-%EB%B9%84%EC%A0%9C%EC%96%B4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
+  - [Suspense](https://blog.naver.com/minhyupp/222844987341)
+  - [useRef 200% 활용하기](https://velog.io/@juno7803/React-useRef-200-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
   
 - React-Query
   - [React-Query 도입을 위한 고민 with recoil](https://tech.osci.kr/2022/07/13/react-query/)
@@ -163,6 +172,9 @@
   - [useQuery, useMutation 트렌비 기술블로그](https://tech.trenbe.com/2022/08/08/%EC%B0%9C%EC%9C%BC%EB%A1%9C%EC%B0%9C%ED%95%B4%EB%B3%B4%EB%8A%94react-query.html)
   - [useInfiniteQuery + NextJs](https://gingerkang.tistory.com/123)
     - [IntersectionObserver 설명](https://velog.io/@elrion018/%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-%EB%8A%90%EB%82%80-%EC%A0%90%EC%9D%84-%EA%B3%81%EB%93%A4%EC%9D%B8-Intersection-Observer-API-%EC%A0%95%EB%A6%AC)
+  - [리액트쿼리 라이프 사이클/주요옵션](https://blog.naver.com/minhyupp/222726864771)
+  - [리액트쿼리 살펴보기](https://hoime.tistory.com/92?category=534509)
+  - [리액트쿼리 infinite scroll, intersectionObserver](https://tech.kakaoenterprise.com/149)
 
 - Recoil
   - [Recoil, Redux, ContextAPI](https://kelly-kh-woo.medium.com/%EB%B2%88%EC%97%AD-recoil-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-95b5bea91b0)
