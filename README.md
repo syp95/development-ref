@@ -78,6 +78,7 @@
 ### 비동기
 
 - [Promise all](https://youtu.be/w76CDYZjS9Q)
+- [Promise allsettle](https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EB%8D%94%EC%9D%B4%EC%83%81-Promiseall-%EC%93%B0%EC%A7%80%EB%A7%90%EA%B3%A0-PromiseallSettled-%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90)
 - [반복문 비동기 호출 직렬(for of), 병렬(for each)](https://youtu.be/JawB9nKkCvo)
 
 ### CS
