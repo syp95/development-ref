@@ -58,6 +58,7 @@
 
 - [토스/ 웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache)
 - [웹 캐시 설명자료](https://blog.naver.com/minhyupp/222729422577)
+- [CDN 캐시 S3 + CloudFront](https://velog.io/@heka1024/CDN%EA%B3%BC-%EC%BA%90%EC%8B%9C-%EC%84%A4%EC%A0%95%EC%9C%BC%EB%A1%9C-%EC%A0%95%EC%A0%81%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%B9%A0%EB%A5%B4%EA%B2%8C)
 
 
 
