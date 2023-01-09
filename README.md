@@ -182,6 +182,7 @@
   - [React Naver Map](https://devkkiri.com/post/57e5af51-374f-4799-a9cb-2bfef2466d7e)
   
 - React-Query
+  - [React Query 캐싱, Refetch, enable ](https://velog.io/@chltjdrhd777/React-Query-%EC%BA%90%EC%8B%B1%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B5%AC%ED%98%84)
   - [React-Query 도입을 위한 고민 with recoil](https://tech.osci.kr/2022/07/13/react-query/)
   - [React-Query 개념 및 정리](https://kyounghwan01.github.io/blog/React/react-query/basic/#%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%B2)
   - [useMutation 기본편](https://velog.io/@kimhyo_0218/React-Query-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BF%BC%EB%A6%AC-useMutation-%EA%B8%B0%EB%B3%B8-%ED%8E%B8)
